@@ -3,7 +3,7 @@ body {
     height: 100%;
     font-family: Lora,"Helvetica Neue",Helvetica,Arial,sans-serif;
     color: #fff;
-    background-color: #000;
+    background-color: #1e2222;
 }
 
 html {
@@ -128,7 +128,7 @@ a:focus {
     text-align: center;
     color: #fff;
     background: url(../img/rue2.JPG) no-repeat bottom center scroll;
-    background-color: #000;
+    background-color: #1e2222;
     -webkit-background-size: cover;
     -moz-background-size: cover;
     background-size: cover;
@@ -246,7 +246,7 @@ a:focus {
     padding: 50px 0;
     color: #fff;
     background: url(../img/downloads-bg.jpg) no-repeat center center scroll;
-    background-color: #000;
+    background-color: #1e2222;
     -webkit-background-size: cover;
     -moz-background-size: cover;
     background-size: cover;
@@ -346,4 +346,16 @@ img::-moz-selection {
 
 body {
     webkit-tap-highlight-color: rgba(255,255,255,.2);
+}
+
+footer {
+    text-align: right;
+    font-size: 0.7em;
+}
+
+.author {
+    text-align: center;
+}
+.profile {
+    text-align: center;
 }
