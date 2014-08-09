@@ -360,3 +360,7 @@ footer {
 img {
     padding-bottom: 2.5em;
 }
+
+blockquote {
+    text-align: left;
+}
