@@ -356,3 +356,7 @@ footer {
 .author {
     text-align: center;
 }
+
+img {
+    padding-bottom: 2.5em;
+}
