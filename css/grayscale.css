@@ -365,3 +365,7 @@ img {
 blockquote {
     text-align: left;
 }
+
+#contact {
+    padding-bottom:15em; 
+}
