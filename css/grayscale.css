@@ -41,7 +41,7 @@ p {
 }
 
 a {
-    color: #fff;
+    color: #000;
     -webkit-transition: all .2s ease-in-out;
     -moz-transition: all .2s ease-in-out;
     transition: all .2s ease-in-out;
@@ -277,7 +277,6 @@ a:focus {
 }
 
 .btn {
-    text-transform: uppercase;
     font-family: Arapey, Montserrat,"Helvetica Neue",Helvetica,Arial,sans-serif;
     font-weight: 400;
     -webkit-transition: all .3s ease-in-out;
@@ -286,17 +285,17 @@ a:focus {
 }
 
 .btn-default {
-    border: 1px solid #fff;
-    color: #fff;
+    border: 1px solid #000;
+    color: #000;
     background-color: transparent;
 }
 
 .btn-default:hover,
 .btn-default:focus {
-    border: 1px solid #fff;
+    border: 1px solid #878787;
     outline: 0;
-    color: #000;
-    background-color: #fff;
+    color: #878787;
+    background-color: transparent;
 }
 
 .btn-huge {
