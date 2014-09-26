@@ -21,7 +21,7 @@ h5,
 h6 {
     margin: 0 0 35px;
     text-transform: uppercase;
-    font-family: Arapey,Montserrat,"Helvetica Neue",Helvetica,Arial,sans-serif;
+    font-family: 'Rufina', serif;
     font-weight: 700;
     letter-spacing: 1px;
 }
@@ -129,7 +129,7 @@ a:focus {
     padding: 100px 0;
     text-align: center;
     color: #fff;
-    background: url(../img/poster_cover.jpg) no-repeat bottom center scroll;
+    background: url(../img/poster_cover_standard.jpg) no-repeat bottom center scroll;
     background-color: #1e2222;
     -webkit-background-size: cover;
     -moz-background-size: cover;
@@ -357,7 +357,6 @@ body {
 }
 
 footer {
-    text-align: right;
     font-size: 0.7em;
 }
 
