@@ -384,3 +384,27 @@ blockquote {
   margin-left: 0px;
   margin-right: 0px;
 }
+
+#footer {
+    background-color: #000000;
+    /*color: #f9f7eb;*/
+}
+
+.footer-text {
+    font-size: 8px;
+    margin-bottom:15px;
+}
+
+.logo-style {
+    padding-top: 18px;
+    padding-bottom:0px;
+}
+
+.footer-logo
+{
+    color: #f9f7eb;
+    -webkit-transition: all .2s ease-in-out;
+    -moz-transition: all .2s ease-in-out;
+    transition: all .2s ease-in-out;
+
+}
