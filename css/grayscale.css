@@ -387,6 +387,7 @@ blockquote {
 
 #footer {
     background-color: #000000;
+    opacity: 0.8;
     /*color: #f9f7eb;*/
 }
 
