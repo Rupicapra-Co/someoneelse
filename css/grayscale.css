@@ -454,7 +454,8 @@ a.twitter-hashtag-button:focus {
 .sharing {
     padding-right: 18px;
     padding-top: 18px;
-    text-align: right;
+    text-align:left;
+    padding-bottom:18px;
 
 }
 
