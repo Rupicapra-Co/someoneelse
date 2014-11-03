@@ -394,6 +394,7 @@ blockquote {
 .footer-text {
     font-size: 8px;
     margin-bottom:15px;
+    color:#f9f7eb;
 }
 
 .logo-style {
@@ -438,4 +439,30 @@ a.twitter-mention-button:focus,
 a.twitter-hashtag-button:focus {
   outline: none;
   border-color: #0089cb;
+}
+
+.address {
+    text-align: left;
+    padding-top: 18px;
+    padding-left: 18px;
+}
+
+.address a {
+    color:#f9f7eb;
+}
+
+.sharing {
+    padding-right: 18px;
+    padding-top: 18px;
+    text-align: right;
+
+}
+
+@media(max-width:1000px) {
+    .sharing {
+    text-align: center;    
+}
+    .address {
+    text-align: center;
+}
 }
