@@ -425,7 +425,7 @@ a.twitter-hashtag-button {
   background-size: 16px 13px, auto auto;
  
   /* Text */
-    font: bold 11px/17px 'Rufina', Arial, sans-serif;
+    font: bold 11px/17px 'Rufina', serif;
   text-decoration: none;
   color: #333;
   text-shadow: 0 1px 0 rgba(255, 255, 255, .5);
